@@ -1,0 +1,1 @@
+# rails_svg_tag_helper
